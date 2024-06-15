@@ -2,7 +2,7 @@
   "name": "hokoo-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
@@ -18,7 +18,7 @@
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dayjs": "^1.11.7",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "fcm-node": "^1.6.1",
     "kue": "^0.11.6",
     "live-stream-server": "^2.0.1",
