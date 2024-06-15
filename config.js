@@ -1,6 +1,6 @@
 module.exports = {
   //port
-  PORT: process.env.PORT || 5000,
+  PORT: process.env.PORT || 8000,
   
   //server database
   MONGODB_USERNAME:"newuser",
